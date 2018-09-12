@@ -20,7 +20,7 @@ j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*3)+ 1);
-var xxx=null;
+var x=Math.floor((Math.random()*3)+ 1);
 if(x=="1"){xxx="09/the-best-ways-to-utilize-auto-parts.html"}
 if(x=="2"){xxx="09/how-to-start-using-travel-insurances.html"}
 if(x=="3"){xxx="09/the-17-worst-health-care-providers-in.html"}a_to_ve[i].href="https://sampelinku.blogspot.com/2018/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
